@@ -49,9 +49,9 @@ This project covers the full pipeline — from spinning up a cloud VM, to deploy
  
 ## Dashboard
  
-<img width="1192" height="451" alt="top db" src="https://github.com/user-attachments/assets/ada8b225-43fe-444a-8be7-db9a2a50b09e" />
-<img width="1177" height="401" alt="mid db" src="https://github.com/user-attachments/assets/fa626ff7-662d-474e-9c0c-625e11cc3701" />
-<img width="1207" height="585" alt="Commands Executed" src="https://github.com/user-attachments/assets/69386b9d-8c3a-4477-95ad-01dd17dc76e4" />
+<img width="1073" height="406" alt="top db" src="https://github.com/user-attachments/assets/ada8b225-43fe-444a-8be7-db9a2a50b09e" />
+<img width="1059" height="361" alt="mid db" src="https://github.com/user-attachments/assets/fa626ff7-662d-474e-9c0c-625e11cc3701" />
+<img width="1086" height="527" alt="Commands Executed" src="https://github.com/user-attachments/assets/69386b9d-8c3a-4477-95ad-01dd17dc76e4" />
  
 ---
  
