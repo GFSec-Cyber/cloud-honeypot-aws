@@ -4,7 +4,7 @@
  
 ---
 
-<img width="408" height="307" alt="HoneyPot Dashboard" src="https://github.com/user-attachments/assets/6b75deb4-3251-446b-a42b-7231c9486598" />
+<img width="611" height="461" alt="HoneyPot Dashboard" src="https://github.com/user-attachments/assets/6b75deb4-3251-446b-a42b-7231c9486598" />
  
 ## What This Is
  
