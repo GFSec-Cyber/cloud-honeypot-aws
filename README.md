@@ -3,6 +3,8 @@
 > Deployed a live honeypot on AWS, captured real-world attacks from 7 countries, and built a SOC-style dashboard to visualize everything. Within 24 hours, 102 connections hit the trap — including a cryptomining bot that revealed its entire playbook.
  
 ---
+
+<img width="1223" height="922" alt="HoneyPot Dashboard" src="https://github.com/user-attachments/assets/6b75deb4-3251-446b-a42b-7231c9486598" />
  
 ## What This Is
  
