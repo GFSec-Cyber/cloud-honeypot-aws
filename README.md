@@ -110,15 +110,24 @@ port 22 → 2222           (admin only)
 Cowrie Honeypot (Docker)
     │
     ▼
-Docker Logs → CloudWatch Agent → AWS CloudWatch
-                                        │
-                                        ▼
-                              Metric Filter (login attempts)
-                                        │
-                                        ▼
-                              SNS Alert → Email notification
- 
-Python Log Processor → Flask Dashboard (port 5000)
+    Docker Container Logs
+        │
+    ┌───┴──────────────────────┐
+    │                          │
+    ▼                          ▼
+CloudWatch Agent          dashboard.py
+    │                  (docker logs cowrie)
+    ▼                          │
+AWS CloudWatch                 ▼
+    │                 Flask Dashboard
+    ▼                   (port 5000)
+Metric Filter
+    │
+    ▼
+CloudWatch Alarm
+    │
+    ▼
+SNS Topic → Email Alert
 ```
  
 ---
