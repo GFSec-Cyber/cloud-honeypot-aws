@@ -171,7 +171,7 @@ A Python script processes the raw Cowrie logs — extracting IPs, geolocating th
  
 **Credential lists are sophisticated.** The top attacker wasn't trying `password123`. It was targeting enterprise service accounts — `ldap`, `weblogic`, `odoo`, `vagrant` — with a curated list of known default credentials including `Huawei12#$`, a real Huawei equipment default.
  
-**Cryptominers are everywhere.** Multiple attackers showed clear crypto mining intent — checking CPU resources, looking for competing miners, searching for known malware hashes. Your cloud server is a target not just for data theft but as a compute resource to steal.
+**Cryptominers are everywhere.** Multiple attackers showed clear crypto mining intent — checking CPU resources, looking for competing miners, searching for known malware hashes. A cloud server is a target not just for data theft but as a compute resource to steal.
  
 **Cloud security misconfigurations are dangerous.** This project deliberately used a misconfigured server. In the real world, that misconfiguration is an accident. The speed and volume of attacks demonstrated here is why cloud security hygiene matters.
  
