@@ -176,13 +176,8 @@ A Python script processes the raw Cowrie logs — extracting IPs, geolocating th
 cloud-honeypot-aws/
 ├── README.md
 ├── dashboard.py          # Flask dashboard server
-├── process_logs.py       # Log processing and IP geolocation script
-└── screenshots/
-    ├── dashboard-full.png
-    ├── world-map.png
-    ├── successful-logins.png
-    ├── commands-captured.png
-    └── top-attackers.png
+└──process_logs.py       # Log processing and IP geolocation script
+
 ```
  
 ---
