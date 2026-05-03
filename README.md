@@ -260,7 +260,3 @@ This project is for educational purposes. The honeypot is intentionally exposed 
 ## About
  
 Built by an aspiring SOC analyst exploring cloud security, threat detection, and real-world attack behavior. This project was as much about learning as it was about building — and the internet delivered better data than any lab simulation could.
- 
-If you have questions or want to talk security, find me on LinkedIn.
-Built by an aspiring SOC analyst exploring cloud security, threat detection, and real-world attack behavior. This project was as much about learning as it was about building — and the internet delivered better data than any lab simulation could.
-If you have questions or want to talk security, find me on LinkedIn.
